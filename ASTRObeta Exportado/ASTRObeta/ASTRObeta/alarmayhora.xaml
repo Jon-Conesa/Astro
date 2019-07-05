@@ -1,0 +1,29 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="ASTRObeta.alarmayhora"
+    xmlns:fa="http://schemas.fontawesome.io/icons/"
+	x:Name="Window"
+	Title="alarmayhora"
+	Width="684.667" Height="388.667" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" MouseLeftButtonDown="Window_MouseLeftButtonDown" MouseWheel="Window_MouseWheel" MouseRightButtonDown="Window_MouseRightButtonDown">
+
+    <Grid x:Name="LayoutRoot">
+        <Rectangle Fill="#FF0B1F64" HorizontalAlignment="Left" Height="388" Stroke="White" VerticalAlignment="Top" Width="684" RadiusY="17.5" RadiusX="17.5" Margin="0,0,-44,0"/>
+        <Label x:Name="lhora" Content="12:12:12 PM" HorizontalAlignment="Left" Height="109.356" Margin="156.768,82.398,0,0" VerticalAlignment="Top" Width="384.836" Foreground="#FF3DA7FF" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" Background="{x:Null}" FontSize="96"/>
+        <TextBox x:Name="ruta" HorizontalAlignment="Left" Height="39" Margin="23,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="430" Background="#FF346CFF" Foreground="White" BorderBrush="{x:Null}" SelectionBrush="{x:Null}" FontFamily="Agency FB" FontSize="21.333"/>
+        <Button x:Name="buscar" Content="BUSCAR" HorizontalAlignment="Left" Height="39" Margin="477,304,0,0" VerticalAlignment="Top" Width="140" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" FontSize="21.333" Background="#FF346CFF" Foreground="White" BorderBrush="{x:Null}" Click="buscar_Click"/>
+        <Label x:Name="CONFIGURACION_DE_ALARMA" Content="CONFIGURACIÓN DE ALARMA" HorizontalAlignment="Left" Height="53" Margin="207,10,0,0" VerticalAlignment="Top" Width="294" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" FontSize="32" Foreground="#FF3089E1"/>
+        <ComboBox x:Name="cbh" HorizontalAlignment="Left" Height="47" Margin="23,210,0,0" VerticalAlignment="Top" Width="156" DropDownClosed="cbh_DropDownClosed" FontFamily="Agency FB" FontSize="32"/>
+        <ComboBox x:Name="cbm" HorizontalAlignment="Left" Height="47" Margin="184,210,0,0" VerticalAlignment="Top" Width="156" DropDownClosed="cbm_DropDownClosed" FontFamily="Agency FB" FontSize="32">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <ComboBox x:Name="cbp" HorizontalAlignment="Left" Height="47" Margin="345,210,0,0" VerticalAlignment="Top" Width="156" DropDownClosed="cbp_DropDownClosed" FontFamily="Agency FB" FontSize="32"/>
+        <ComboBox x:Name="cbenable" HorizontalAlignment="Left" Height="47" Margin="506,210,-22,0" VerticalAlignment="Top" Width="156" DropDownClosed="cbenable_DropDownClosed" FontFamily="Agency FB" FontSize="32"/>
+        <Label x:Name="lhora_Copy" Content="12:12:12 PM" HorizontalAlignment="Left" Height="34" Margin="520,15,0,0" VerticalAlignment="Top" Width="97" Foreground="#FF3DA7FF" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" Background="{x:Null}" FontSize="22"/>
+    </Grid>
+</Window>

@@ -1,0 +1,12 @@
+﻿<Window x:Class="ASTRObeta.Help"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Help" Height="312.996" Width="454.874" MouseRightButtonDown="Window_MouseRightButtonDown" MouseWheel="Window_MouseWheel">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="217*"/>
+            <ColumnDefinition Width="230*"/>
+        </Grid.ColumnDefinitions>
+
+    </Grid>
+</Window>

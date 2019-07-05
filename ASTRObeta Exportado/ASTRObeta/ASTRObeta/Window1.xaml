@@ -1,0 +1,25 @@
+﻿<Window x:Class="ASTRObeta.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="640" Width="899" AllowsTransparency="True" WindowStyle="None" MouseLeftButtonDown="Window_MouseLeftButtonDown" KeyDown="Window_KeyDown" Loaded="Window_Loaded" MouseRightButtonDown="Window_MouseRightButtonDown" MouseRightButtonUp="Window_MouseRightButtonUp" MouseLeftButtonUp="Window_MouseLeftButtonUp" Activated="Window_Activated" MouseWheel="Window_MouseWheel">
+    <Grid Background="#FF0B1F64" KeyDown="Grid_KeyDown" Loaded="Grid_Loaded">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="429*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FF183889" HorizontalAlignment="Left" Height="154.5" Margin="445.5,10,0,0" RadiusY="10.5" RadiusX="10.5" VerticalAlignment="Top" Width="440.412" Stroke="White"/>
+        <Label Content="AJUSTES" x:Name="ttiempo_Copy"  HorizontalAlignment="Left" Height="59" Margin="466.5,14.833,0,0" VerticalAlignment="Top" Width="157.5" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" FontSize="48" Foreground="White"/>
+        <Label Content="IP de la persona:" x:Name="ttiempo_Copy1"  HorizontalAlignment="Left" Height="38" Margin="466.5,92.667,0,0" VerticalAlignment="Top" Width="157.5" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" FontSize="26.667" Foreground="White"/>
+        <Path Data="M12.778002,0.5 L397.5,0.5 C404.28095,0.500002 409.77802,5.9970499 409.77802,12.778002 L409.77802,26.721998 C409.77802,33.502955 404.28095,39.000002 397.5,39.000002 L12.778002,39.000002 C5.9970504,39.000002 0.50000253,33.502955 0.5,26.721998 L0.5,12.778002 C0.50000253,5.9970499 5.9970504,0.500002 12.778002,0.5 z" Fill="#FF6C81CB" HorizontalAlignment="Left" Height="38" Margin="614,92.667,0,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top" Width="169.278" RenderTransformOrigin="0.479,0.461"/>
+        <TextBox x:Name="tbip" HorizontalAlignment="Left" Height="35.582" Margin="614,95.085,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="169.278" Background="{x:Null}" BorderBrush="{x:Null}" SelectionBrush="{x:Null}" Foreground="White" FontFamily="Agency FB" FontSize="29.333"/>
+        <Rectangle Fill="#FF6C81CB" HorizontalAlignment="Left" Height="38" Margin="788.278,92.667,0,0" RadiusY="11" RadiusX="11" Stroke="White" VerticalAlignment="Top" Width="79.722"/>
+        <Button x:Name="empezarbt" Content="Empezar" HorizontalAlignment="Left" Height="35.582" Margin="788.278,95.085,0,0" VerticalAlignment="Top" Width="79.722" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" FontFamily="Agency FB" Click="empezarbt_Click"/>
+        <Path Data="M12.778002,0.5 L397.5,0.5 C404.28095,0.500002 409.77802,5.9970499 409.77802,12.778002 L409.77802,26.721998 C409.77802,33.502955 404.28095,39.000002 397.5,39.000002 L12.778002,39.000002 C5.9970504,39.000002 0.50000253,33.502955 0.5,26.721998 L0.5,12.778002 C0.50000253,5.9970499 5.9970504,0.500002 12.778002,0.5 z" Fill="#FF6C81CB" HorizontalAlignment="Left" Height="56" Margin="10,577,0,0" Stretch="Fill" Stroke="White" VerticalAlignment="Top" Width="719.778"/>
+        <TextBox x:Name="mensagetb" HorizontalAlignment="Left" Height="56" Margin="10,577,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="719.778" Background="{x:Null}" BorderBrush="{x:Null}" SelectionBrush="{x:Null}" Foreground="White" FontFamily="Agency FB" FontSize="29.333" KeyDown="mensagetb_KeyDown"/>
+        <Rectangle Fill="#FF6C81CB" HorizontalAlignment="Left" Height="56" Margin="761.278,577,0,0" RadiusY="11" RadiusX="11" Stroke="White" VerticalAlignment="Top" Width="101.722"/>
+        <Button x:Name="enviarbt" Content="Enviar" HorizontalAlignment="Left" Height="53" Margin="761.278,577,0,0" VerticalAlignment="Top" Width="101.722" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" FontFamily="Agency FB" Click="enviarbt_Click"/>
+        <ListBox x:Name="lllllliiiiiisssssst" HorizontalAlignment="Left" Height="389" Margin="10,175.5,0,0" VerticalAlignment="Top" Width="878" Background="#FF183889" Foreground="White" FontFamily="Agency FB" FontSize="18.667"/>
+        <Label Content="CHAT" x:Name="ttiempo"  HorizontalAlignment="Left" Height="130.5" Margin="10,20.708,0,0" VerticalAlignment="Top" Width="166.5" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" FontSize="96" Foreground="White"/>
+        <Label Content="DE ASTRO" x:Name="ttiempo_Copy2"  HorizontalAlignment="Left" Height="74.917" Margin="205.5,66.458,0,0" VerticalAlignment="Top" Width="166.5" FontFamily="/ASTRObeta;component/Fonts/#Gill Sans Nova Cond Lt" FontSize="48" Foreground="White"/>
+    </Grid>
+</Window>

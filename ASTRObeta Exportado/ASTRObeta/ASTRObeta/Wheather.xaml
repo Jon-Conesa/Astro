@@ -1,0 +1,29 @@
+﻿<Window x:Class="ASTRObeta.Wheather"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        Title="Wheather" Height="472" Width="674.8" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}" Foreground="{x:Null}" Visibility="Visible" MouseLeftButtonDown="Window_MouseLeftButtonDown" MouseRightButtonDown="Window_MouseRightButtonDown" MouseWheel="Window_MouseWheel">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="21*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Grid.ColumnSpan="2" Fill="#FF0B1F64" HorizontalAlignment="Left" Height="469" RadiusY="13.515" RadiusX="13.515" Stroke="White" VerticalAlignment="Top" Width="672" Margin="0,0,-145,-169" MouseWheel="Rectangle_MouseWheel"/>
+        <Label Content="TIEMPO" x:Name="ttiempo"  HorizontalAlignment="Left" Height="72" Margin="10,10,0,0" VerticalAlignment="Top" Width="232.6" FontFamily="" FontSize="64" Foreground="White"/>
+        <Label Content="" x:Name="cciudad"  HorizontalAlignment="Left" Height="37.5" Margin="118.78,113.5,0,0" VerticalAlignment="Top" Width="318" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <Label Content="" x:Name="ttemp"   HorizontalAlignment="Left" Height="46.5" Margin="185.98,151,0,0" VerticalAlignment="Top" Width="289.5" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <Label Content="" x:Name="hhumi"   HorizontalAlignment="Left" Height="37.5" Margin="143.5,202.5,0,0" VerticalAlignment="Top" Width="273" FontFamily="Agency FB" FontSize="26.667" Foreground="White" RenderTransformOrigin="0.463,0.486"/>
+        <Label Content=""  x:Name="ppress"  HorizontalAlignment="Left" Height="37.5" Margin="118.78,245,0,0" VerticalAlignment="Top" Width="273" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <Label Content=""  x:Name="cclouds"  HorizontalAlignment="Left" Height="40.5" Margin="118.78,324.5,0,0" VerticalAlignment="Top" Width="385.5" FontFamily="Agency FB" FontSize="26.667" Foreground="White" Grid.ColumnSpan="2"/>
+        <Label Content="" x:Name="pprecip"   HorizontalAlignment="Left" Height="42" Margin="213.1,282.5,0,0" VerticalAlignment="Top" Width="363" FontFamily="Agency FB" FontSize="26.667" Foreground="White" Grid.ColumnSpan="2"/>
+        <Label Content="Ciudad :" x:Name="cciudad_Copy"  HorizontalAlignment="Left" Height="37.5" Margin="10,113.5,0,0" VerticalAlignment="Top" Width="108.78" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <Label Content="Temperatura :" x:Name="ttemp_Copy"   HorizontalAlignment="Left" Height="46.5" Margin="10,151,0,0" VerticalAlignment="Top" Width="175.98" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <Label Content="Humedad :" x:Name="hhumi_Copy"   HorizontalAlignment="Left" Height="37.5" Margin="10,197.5,0,0" VerticalAlignment="Top" Width="150" FontFamily="Agency FB" FontSize="26.667" Foreground="White" RenderTransformOrigin="0.463,0.486"/>
+        <Label Content="Presión :"  x:Name="ppress_Copy" Height="37.5" Margin="10,241.083,361.899,0" VerticalAlignment="Top" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <Label Content="Precipitaciones :" x:Name="pprecip_Copy"   HorizontalAlignment="Left" Height="42" Margin="10,278.583,0,0" VerticalAlignment="Top" Width="203.1" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <Label Content="Clouds :"  x:Name="cclouds_Copy"  HorizontalAlignment="Left" Height="40.5" Margin="10,325.583,0,0" VerticalAlignment="Top" Width="108.78" FontFamily="Agency FB" FontSize="26.667" Foreground="White"/>
+        <fa:ImageAwesome x:Name="cloud" Icon="Cloud" Margin="412,10,31,252" Foreground="White" Grid.ColumnSpan="2"/>
+        <fa:ImageAwesome x:Name="sun" Icon="SunOutline" Margin="312,0,131,262" Foreground="White" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

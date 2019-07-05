@@ -1,0 +1,12 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="ASTRObeta.Explorador"
+	x:Name="Window"
+	Title="Explorador"
+	Width="603.366" Height="360.404" AllowsTransparency="True" WindowStyle="None" Opacity="0.9" Background="#FF2A4ADA">
+
+	<Grid x:Name="LayoutRoot" Margin="0,0,2,1.626">
+		<Rectangle HorizontalAlignment="Left" Height="338.778" Margin="10,10,0,0" Stroke="White" VerticalAlignment="Top" Width="581.366" RadiusY="15.359" RadiusX="15.359"/>
+	</Grid>
+</Window>

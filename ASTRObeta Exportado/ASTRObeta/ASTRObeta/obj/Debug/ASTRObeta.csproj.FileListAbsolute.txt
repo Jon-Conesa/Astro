@@ -1,0 +1,88 @@
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ASTRObeta.exe.config
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ASTRObeta.exe
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ASTRObeta.pdb
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\FontAwesome.WPF.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\FontAwesome.WPF.xml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\alarmayhora.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Configuracion.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Help.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\MainWindow.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Menu.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Password.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Privacity.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\TecladoVersion.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Wheather.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Window1.baml
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\alarmayhora.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Configuracion.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Help.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\MainWindow.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Menu.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Password.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Privacity.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\TecladoVersion.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Wheather.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Window1.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\App.g.cs
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta_MarkupCompile.cache
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.g.resources
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.Properties.Resources.resources
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.Time.resources
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.csproj.GenerateResource.Cache
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.exe
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.pdb
+C:\Users\zanni\documents\visual studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.csprojResolveAssemblyReference.cache
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ASTRObeta.exe.config
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ASTRObeta.exe
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ASTRObeta.pdb
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\FontAwesome.WPF.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\FontAwesome.WPF.xml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\alarmayhora.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Configuracion.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Help.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\MainWindow.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Menu.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Password.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Privacity.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\TecladoVersion.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Wheather.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Window1.baml
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\alarmayhora.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Configuracion.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Help.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\MainWindow.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Menu.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Password.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Privacity.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\TecladoVersion.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Wheather.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\Window1.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\App.g.cs
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta_MarkupCompile.cache
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.g.resources
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.Properties.Resources.resources
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.Time.resources
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.csproj.GenerateResource.Cache
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.exe
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.pdb
+C:\Users\RR JC\Documents\Visual Studio 2013\Projects\ASTRObeta\ASTRObeta\obj\Debug\ASTRObeta.csprojResolveAssemblyReference.cache
